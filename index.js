@@ -4,4 +4,5 @@ function doToElementsInArray(array, callback){
 
 function changeCompletely(element) {
   element = "sdlfkjgnsfdgjh";
+  console.log(element);
 }
