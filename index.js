@@ -3,5 +3,5 @@ function doToElementsInArray(array, callback){
 }
 
 function changeCompletely(element) {
-  console.log(element);
+  element = "sdlfkjgnsfdgjh";
 }
