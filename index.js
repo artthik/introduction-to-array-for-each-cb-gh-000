@@ -3,5 +3,6 @@ function doToElementsInArray(array, callback){
 }
 
 function changeCompletely(element){
+  debugger;
   element = "";
 }
