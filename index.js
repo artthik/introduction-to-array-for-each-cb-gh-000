@@ -3,7 +3,5 @@ function doToElementsInArray(array, callback){
 }
 
 function changeCompletely(){
-  array.forEach(element () => {
-    element += "s";
-  })
+  a
 }
