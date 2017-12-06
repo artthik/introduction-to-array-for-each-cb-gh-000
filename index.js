@@ -2,6 +2,6 @@ function doToElementsInArray(array, callback){
   array.forEach(callback);
 }
 
-changeCompletely () => {
+function changeCompletely () => {
   
 }
