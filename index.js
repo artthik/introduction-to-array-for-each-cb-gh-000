@@ -1,7 +1,7 @@
-function doToElementsInArray(){
-  
+function doToElementsInArray(array, callback){
+
 }
 
 function changeCompletely(){
-  
+
 }
